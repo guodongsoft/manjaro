@@ -42,6 +42,19 @@ export XMODIFIERS="@im=fcitx"
 $ yay -S polybar
 ```
 
+### wps ###
+
+``` fish
+$ yay -S wps-office     # 安装wps
+$ yay -S ttf-wps-fonts  # 安装wps字体
+
+$ sudo vim /usr/bin/wps     # 编辑wps配置文件
+# 在 紧跟#!/bin/bash后添加下列三行
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS="@im=fcitx"
+```
+
 ## Config ##
 
 ### dmenurc ###
