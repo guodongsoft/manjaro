@@ -1,0 +1,232 @@
+sw_volume: 92
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 64
+time: 4.075000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:AURORA - Home.mp3
+1:AURORA - I Went Too Far.mp3
+2:AURORA - In Boxes.mp3
+3:AURORA - Little Boy in the Grass.mp3
+4:AURORA - Lucky.mp3
+5:AURORA - Murder Song (5, 4, 3, 2, 1) ［Acoustic］.mp3
+6:AURORA - Nature Boy (Acoustic).mp3
+7:AURORA - Puppet.mp3
+8:AURORA - Runaway.mp3
+9:AURORA - Running With the Wolves (Pablo Nouvelle Remix).mp3
+10:AURORA - Running With the Wolves.mp3
+11:AURORA - Through the Eyes of a Child.mp3
+12:AURORA - Under Stars.mp3
+13:AURORA - Under the Water.mp3
+14:AURORA - Warrior.mp3
+15:AURORA - Winter Bird.mp3
+16:AURORA - Wisdom Cries.mp3
+17:Bea Miller - Dracula.mp3
+18:Bea Miller - Enemy Fire.mp3
+19:Bea Miller - Fire N Gold.mp3
+20:Bea Miller - Force of Nature.mp3
+21:Bea Miller - I Dare You.mp3
+22:Bea Miller - Open Your Eyes (Deep Blue Songspell).mp3
+23:Bea Miller - Paper Doll.mp3
+24:Bea Miller - Perfect Picture.mp3
+25:Bea Miller - Pompeii (Cover).mp3
+26:Bea Miller - Rich Kids.mp3
+27:Bea Miller - This Is Not an Apology.mp3
+28:Bea Miller - We're Taking Over.mp3
+29:Beka Desantis - Gone.mp3
+30:Boyce Avenue Bea Miller - See You Again.mp3
+31:Boyce Avenue Bea Miller - We Can't Stop.mp3
+32:Britney Spears - Till The World Ends.mp3
+33:Charlie Puth Selena Gomez - We Don't Talk Anymore.mp3
+34:Daniel Powter - Free Loop.mp3
+35:DeepSystem - Hey My Love (Radio Mix).mp3
+36:F.I.R. 彭佳慧 - 心之火.mp3
+37:G.E.M.邓紫棋 - 盲点.mp3
+38:Gloria Kim - Oh, Honey.mp3
+39:Havana Brown R3hab - You’ll Be Mine.mp3
+40:Hello Nico - 花.mp3
+41:J.Fla - Closer.mp3
+42:Jam - 忧伤的过往.mp3
+43:Sandra Lyng - Moonrise.mp3
+44:Schnappi - Schnappi Das Kleine Krokodil.mp3
+45:Tatiana Manaois - Again & Again.mp3
+46:Tatiana Manaois - Difference.mp3
+47:Tatiana Manaois - Find Me.mp3
+48:Tatiana Manaois - Helplessly.mp3
+49:Tatiana Manaois - I Want It to Be You (feat. Mac Mase).mp3
+50:Tatiana Manaois - If We're Reckless (Stay Love).mp3
+51:Tatiana Manaois - It's Already Christmas.mp3
+52:Tatiana Manaois - Last Time.mp3
+53:Tatiana Manaois - Like You.mp3
+54:Tatiana Manaois - This Melody.mp3
+55:Tatiana Manaois - Through The Fight.mp3
+56:Tatiana Manaois - Understand.mp3
+57:Tatiana Manaois J Jayce - Break Me Down.mp3
+58:Tinashé - This Feeling.mp3
+59:Vidya Vox Justin Bieber DJ Snake Arijit Singh - Let Me Love You & Tum Hi Ho (Vidya Vox Mashup).mp3
+60:VOCALOID - 未来程序猿之歌.mp3
+61:まふまふ - 病名は愛だった.mp3
+62:ヨフォシT– سيش - 未来.mp3
+63:万岁爺 - 爱情.mp3
+64:万岁爺 - 蜜蜂 demo.mp3
+65:俊俏小松 - 一个人回忆两个人的曾经 - 俊俏小松.mp3
+66:刘思涵 - 走在冷风中.mp3
+67:刘惜君 - 我很快乐.mp3
+68:刘沁 - 我很好.mp3
+69:区文诗 - 不只爱情.mp3
+70:单色凌 - 一个人的童话.mp3
+71:卡奇社 - 日光倾城.mp3
+72:卡奇社 - 涟漪.mp3
+73:卢巧音 - 哲学家.mp3
+74:双笙 - 小幸运（Cover 田馥甄）.mp3
+75:双笙 - 我的一个道姑朋友（Cover Lon）.mp3
+76:双笙 - 故梦（Cover 橙翼）.mp3
+77:可岚 - 女生不哭.mp3
+78:后海大鲨鱼 - 猛犸.mp3
+79:向日葵乐队 - 想和你鬼闹.mp3
+80:周子琰 - The World Is Love.mp3
+81:周子琰 - 信.mp3
+82:周子琰 - 喜欢.mp3
+83:周子琰 - 我懂你.mp3
+84:周子琰 - 有一个我.mp3
+85:周子琰 - 果实 (Outro).mp3
+86:周子琰 - 疯了.mp3
+87:周子琰 - 立秋.mp3
+88:周子琰 - 花开 (Interlude).mp3
+89:周子琰 - 萌芽 (Intro).mp3
+90:周子琰 - 随之舞蹈.mp3
+91:周子琰 - 风起来的时光.mp3
+92:周艳泓 - 白骨精写给孙悟空的信.mp3
+93:唐荭菲 - 海平面和地平线.mp3
+94:回音哥 - 陪我看日出.mp3
+95:大乔小乔 - 消失的光年.mp3
+96:大鹏 - 都选C.mp3
+97:孙燕姿 - 害怕.mp3
+98:宇珩 - 朋友们都结婚去了.mp3
+99:宋冬野 - 关忆北.mp3
+100:宋冬野 - 安和桥.mp3
+101:小曲儿 - 原点.mp3
+102:小果 - 蜗牛的旅行.mp3
+103:尚雯婕 - 待我长发及腰.mp3
+104:尧十三 - 北方女王.mp3
+105:尧十三 - 南方的女王.mp3
+106:左颜 - 你以为.mp3
+107:左颜 - 木头的心.mp3
+108:张亚飞 - 大女人.mp3
+109:张悬 - 如果你要离去.mp3
+110:张碧晨 陈奕夫 傲日其愣 唐倩 - 凉凉.mp3
+111:张纹嘉 - 形影不离.mp3
+112:张震岳 - 思念是一种病(Live) - live.mp3
+113:徐薇 - 我以为.mp3
+114:性人盒 - 最初的姓名.mp3
+115:戚薇 - 如果爱忘了.mp3
+116:戚薇 - 放开爱.mp3
+117:戴尔基 - 安阳安阳（Cover 李晋）.mp3
+118:戴爱玲 - 空港.mp3
+119:房东的猫 - 爱你就像爱生命.mp3
+120:撒娇 - 虎口脱险.mp3
+121:曹方 - 冰川.mp3
+122:曹方 - 比天空还远.mp3
+123:李宇春 - 粉末.mp3
+124:李幸倪 - 我不是你的观赏鱼.mp3
+125:李幸倪 - 玫瑰的故事.mp3
+126:李志 - 意味.mp3
+127:李柏凝 - 幸福会不会从天而降.mp3
+128:李秋雯 - 往南.mp3
+129:杨千嬅 - 一个人的童话.mp3
+130:林凡 - 一个人生活.mp3
+131:林嘉欣 - 视而不见.mp3
+132:林子萱 - 一对.mp3
+133:林忆莲 - 再见悲哀.mp3
+134:梁咏琪 - 烟雾弥漫.mp3
+135:森冬 - Dried Out.mp3
+136:汤旭 - 便宜的幸福.mp3
+137:海龟先生 - 男孩别哭.mp3
+138:温岚 - 傻瓜.mp3
+139:燕池 - 人海 - 2015版.mp3
+140:燕池 - 从前慢.mp3
+141:燕池 - 苦昼短.mp3
+142:王般若 - 南方的我，北方的你.mp3
+143:王艺洁 - 此时的月光.mp3
+144:王菲 - 偿还.mp3
+145:王菲 - 匆匆那年.mp3
+146:白云 - 偶然.mp3
+147:白云 - 别来无恙.mp3
+148:白亮 赵静 - 孙大剩.mp3
+149:秘密後院 - 梦生.mp3
+150:程天意 - 致橡树.mp3
+151:程璧 - 你们.mp3
+152:程璧 - 恋恋风尘.mp3
+153:程璧 - 给少年的歌.mp3
+154:空想家乐队 - 走在通往明天的路上.mp3
+155:纣王老胡 - 离散.mp3
+156:罗琦 - 距离.mp3
+157:肖晨 陈小二 - 酒吧叙事体.mp3
+158:自然卷 - 像我这样的女孩.mp3
+159:自然卷 - 坐在巷口的那对男女.mp3
+160:花澤香菜 釘宮理恵 - 恋愛サーキュレーション - 双声道版.mp3
+161:花粥 - 20岁的某一天.mp3
+162:花粥 - 三天.mp3
+163:花粥 - 南来北往.mp3
+164:花粥 - 我们总是在寻找.mp3
+165:花粥 - 轻狂.mp3
+166:花粥 - 远在北方孤独的鬼.mp3
+167:茶凉粉乐队 - 白日梦.mp3
+168:草莓救星 - 这样的我.mp3
+169:莫倪moni - 一位老司机悲伤的夏天.mp3
+170:萧贺硕 - 不公平.mp3
+171:萧贺硕 - 太温柔.mp3
+172:蓝又时 - 让心跳停了.mp3
+173:蔚雨芯 - 无话可说.mp3
+174:蔡健雅 - 停格.mp3
+175:蔡健雅 - 呼吸.mp3
+176:蔡健雅 - 红色高跟鞋.mp3
+177:薛之谦 - 演员.mp3
+178:裸儿 - 会飞的野马.mp3
+179:许慧欣 - 七月七日晴.mp3
+180:谢天笑 - 请原谅我.mp3
+181:谢春花 - 一棵会开花的树(demo).mp3
+182:谢春花 - 唱不了一首欢乐的歌(demo).mp3
+183:谢春花 - 黑夜虽长，请别用来遗忘(demo).mp3
+184:谣乐队 - 裙角飞扬.mp3
+185:谭艳 - 一个人.mp3
+186:赵雷 - 少年锦时.mp3
+187:那英 - 默.mp3
+188:邵夷贝 - 小傻瓜.mp3
+189:邵夷贝 - 我们.mp3
+190:邵夷贝 - 石头姑娘.mp3
+191:郁欢 - 不找了（Cover：郭旭）.mp3
+192:郭斯 张雨晴 - 你.mp3
+193:金玟岐 - 岁月神偷.mp3
+194:钟汉良 - 何以爱情.mp3
+195:钟立风 - 再见了，最爱的人.mp3
+196:阿肆 - 微凉的心跳.mp3
+197:阿肆 - 睡前故事.mp3
+198:阿肆 - 缺乏.mp3
+199:阿肆 - 预谋邂逅.mp3
+200:陈僖仪 - 蜚蜚.mp3
+201:陈婉晴 - 眠去.mp3
+202:陈小熊 - 她说每个人的心中都有一首歌.mp3
+203:陈慧琳 - 谁愿放手.mp3
+204:陈绮贞 - 旅行的意义.mp3
+205:颜阿达Ada - 你飞到城市另一边.mp3
+206:马条 - 塔吉汗.mp3
+207:马頔 - 表.mp3
+208:高进 - 别想她.mp3
+209:魏佳庆 - 公路少年.mp3
+210:魏如萱 - 晚安晚安.mp3
+211:鱼一 - 全新改版鼓.mp3
+212:黄伊汶 - 人.情.味.mp3
+213:黄婧 - 七十里的城墙.mp3
+214:黄小桢 陈建骐 - 贝阿提丝.mp3
+215:黄玠 魏如萱 - 25岁.mp3
+216:Amy Chanrich - IF You & Faded Remix.mp3
+playlist_end
