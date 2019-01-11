@@ -10,7 +10,7 @@ $ sudo vim /etc/pacman.conf # 打开文件
 [archlinuxcn]
 Server = https://mirrors.ustc.edu.cn/archlinuxcn/$arch
 
-$ sudo pacman -Syy && sudo pacman -S archlinuxcn-keyring
+$ sudo pacman -Syyu && sudo pacman -S archlinuxcn-keyring
 
 ```
 
@@ -27,7 +27,7 @@ $ sudo pacman -S yay
 $ yay -S fcitx-im # 安装fcitx 选择全部安装
 $ yay -S fcitx-configtool # fcitx 配置界面
 
-安装fcitx-googlepinyin和fcit-mozc
+安装fcitx-googlepinyin和fcitx-mozc
 
 $ sudo vim ~/.xprofile # 打开编辑.xprofile文件
 # 在文件中加入以下两行代码
