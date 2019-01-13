@@ -68,8 +68,8 @@ font-4 = FontAwesome:pixelsize=12;2
 
 
 modules-left = menu xbacklight volume
-modules-center = mpd filesystem
-modules-right = bspwm i3 memory cpu temperature battery date xkeyboard
+modules-center = mpd bspwm i3
+modules-right = filesystem memory cpu temperature battery date xkeyboard
 
 tray-position = right
 tray-padding = 2
@@ -165,7 +165,8 @@ label-indicator-underline = ${colors.secondary}
 type = internal/fs
 interval = 25
 mount-0 = /
-label-mounted = " %used% / %total% "
+label-mounted = "  %used% / %total%  "
+label-mounted-underline = ${colors.secondary}
 
 [module/bspwm]
 type = internal/bspwm
