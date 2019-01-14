@@ -42,6 +42,12 @@ export XMODIFIERS="@im=fcitx"
 $ yay -S polybar
 ```
 
+### shutter ###
+
+``` fish
+$ yay -S shutter
+```
+
 ### wps ###
 
 ``` fish
